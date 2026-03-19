@@ -1,0 +1,16 @@
+pip install openpyxl pyautogui opencv-python pillow pytesseract pyperclip
+
+pip install selenium
+
+pip install --upgrade selenium
+
+pip install pandas
+
+
+C:\Users\Administrator\AppData\Local\Google\Chrome\Bin\chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\temp\chrome_profile"
+
+https://gs.amazon.cn/search
+
+
+deepseek api
+sk-3beb72520b5d41acb3094d60cb595e11
